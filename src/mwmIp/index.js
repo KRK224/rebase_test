@@ -1,3 +1,5 @@
-export default function mwmIp() {
+const mwmIp = () => {
   console.log('this is mwmip ');
-}
+};
+
+export default mwmIp;
