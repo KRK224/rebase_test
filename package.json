@@ -1,0 +1,12 @@
+{
+  "name": "rebase_test",
+  "version": "1.0.0",
+  "description": "rebase 로 원격 커밋할 때의 상태 확인용 repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
